@@ -90,6 +90,14 @@ label:focus,
     
 }
 
+.default-option{
+    color:#999;
+}
+
+.option-choose{
+    color: #555 !important;
+}
+
 
 .btn-primary{
     margin-top:5%;
@@ -109,4 +117,21 @@ label:focus,
     background-color: #632727 !important;
 }
 
+
+/*Swithcher*/
+.inline-block{
+    background-color:white;
+    text-align: center;
+    
+}
+
+.login, .register{
+    padding: 5% 0%;
+    margin-bottom: 5%;
+    
+}
+
+.login:hover, .register:hover{
+    background-color: #e6e6e6
+}
 

@@ -10,10 +10,19 @@
 
 <body>
     <div class="wrapper">
-            <div class="col-sm-6 first-column"><p></p></div>
+            <div class="col-sm-6 first-column"></div>
             <div class="col-sm-6 second-column">
                 
                 <div class="login-registration">
+                  <div class="inline-block">
+                    <div class="col-sm-6 login">
+                      <span class="column-link"><a href="">Sign in</a></span>
+                    </div>
+                    <div class="col-sm-6 register">
+                        <span class="column-link"><a href="">Create Account</a></span>
+                    </div>
+                  </div>
+                    
                     <form class="registration">
                             <div class="form-group">
                                 <input type="text" class="form-control" id="exampleInputName" placeholder="Name">
@@ -26,6 +35,22 @@
                               
                               <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Email Adres">
                              </div>
+
+                             <div class="form-group">
+                                <select class="options-control" id="options-control">
+                                    <option class="default-option">I'm...</option>
+                                    <option class="option-choose">Male</option>
+                                    <option class="option-choose">Female</option>
+                                </select>
+                            </div>
+
+                            <div class="form-group">
+                                <select class="options-control" id="options-control">
+                                    <option class="default-option">I'm looking for...</option>
+                                    <option class="option-choose">Male</option>
+                                    <option class="option-choose">Female</option>
+                                </select>
+                            </div>
                             <div class="form-group">
                              
                               <input type="password" class="form-control" id="exampleInputPassword1" placeholder="Password">
