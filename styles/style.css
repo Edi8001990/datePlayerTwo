@@ -120,19 +120,20 @@ label:focus,
 
 /*Swithcher*/
 .inline-block{
-    background-color:white;
+   
     text-align: center;
+    
     
 }
 
 .login, .register{
-   
+    
     margin-bottom: 5%;
     
 }
 
 .login:hover, .register:hover{
-    background-color: #e6e6e6
+    background-color: grey; 
 }
 
 .login .column-link a, .register .column-link a{
@@ -141,8 +142,10 @@ label:focus,
     display: block;
 }
 
-.login:focus{
-    background-color: red !important;
+
+.red{
+    background-color: #e6e6e6 !important;
+    
 }
 
 .forms-container #link2{

@@ -7,6 +7,15 @@ $(".link").click(function(e){
         $('#' + $(this).data('rel')).show();
         
 });
+
+
+$('.inline-block #change-bg').click(function(){
+    $('#change-bg.red').removeClass('red')
+        $(this).addClass('red');
+});
+
+
+
 });
 
 
