@@ -4,26 +4,38 @@
                 <meta name="viewport" content="width=device-width, initial-scale=1.0">
                 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
                 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+                <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+                
+                
+                <script type="text/javascript" src="js/script.js"></script>
+
+                
+
                 <link rel="stylesheet" href="styles/style.css" type="text/css">
         <title>Date Player Two</title>
         </head>
 
 <body>
+   
     <div class="wrapper">
+        
+        
+
             <div class="col-sm-6 first-column"></div>
             <div class="col-sm-6 second-column">
                 
                 <div class="login-registration">
                   <div class="inline-block">
                     <div class="col-sm-6 login">
-                      <span class="column-link"><a href="">Sign in</a></span>
+                      <span class="column-link"><a class="link" href="#" data-rel="link1">Sign in</a></span>
                     </div>
                     <div class="col-sm-6 register">
-                        <span class="column-link"><a href="">Create Account</a></span>
+                        <span class="column-link"><a class="link" href="#" data-rel="link2">Create Account</a></span>
                     </div>
                   </div>
-                    
-                    <form class="registration">
+                    <div class="forms-container">
+                      <div id="link1">
+                        <form class="registration">
                             <div class="form-group">
                                 <input type="text" class="form-control" id="exampleInputName" placeholder="Name">
                             </div>
@@ -61,10 +73,26 @@
                             </div>
                             <button type="submit" class="btn btn-primary">Create Account</button>
                     </form>
+                  </div>
+
+                  <div id="link2">
+                    <form class="login-form">
+                      <p>Loginform</p>
+                    </form>
+                  </div>
+                  </div>
                 </div>
 
             </div>
     </div>
+
+
+
+    
+
+
+
+
 
     <footer>
             

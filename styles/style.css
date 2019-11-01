@@ -126,7 +126,7 @@ label:focus,
 }
 
 .login, .register{
-    padding: 5% 0%;
+   
     margin-bottom: 5%;
     
 }
@@ -134,4 +134,25 @@ label:focus,
 .login:hover, .register:hover{
     background-color: #e6e6e6
 }
+
+.login .column-link a, .register .column-link a{
+    text-decoration: none;
+    padding: 10% 0%;
+    display: block;
+}
+
+.login:focus{
+    background-color: red !important;
+}
+
+.forms-container #link2{
+    display: none;
+}
+
+
+
+
+
+
+
 
