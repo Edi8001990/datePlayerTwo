@@ -126,27 +126,36 @@ label:focus,
     
 }
 
-.login, .register{
-    
+
+.register-first-block, .login-second-block{
+    background-color: white;
+}
+
+.login-first-block, .register-second-block{
+    background-color: #e4e4e4;
+}
+
+.register-first-block, .login-first-block, .register-second-block, .login-second-block{
     margin-bottom: 5%;
     
 }
 
-.login:hover, .register:hover{
-    background-color: grey; 
+.register-first-block:hover, .register-second-block:hover, .login-first-block:hover, .login-second-block:hover{
+    background-color: #d0d0d0; 
 }
 
-.login .column-link a, .register .column-link a{
+.login-first-block .column-link a, .register-first-block .column-link a, .login-second-block .column-link a, .register-second-block .column-link a{
     text-decoration: none;
     padding: 10% 0%;
     display: block;
 }
 
 
-.red{
-    background-color: #e6e6e6 !important;
+.clicked-class{
+    background-color: white;
     
 }
+
 
 .forms-container #link2{
     display: none;
