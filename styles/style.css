@@ -24,6 +24,10 @@ html, body {
     
 }
 
+.column-link a{
+    color:#646464;
+}
+
 
 
 @keyframes gradientBG {
@@ -36,6 +40,19 @@ html, body {
     100% {
         background-position: 0% 50%;
     }}
+
+
+.logo-block{
+    position: relative;
+    top:15%;
+    margin-bottom: 1%;
+}
+
+.img-responsive{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    }
 
     
 
@@ -77,8 +94,14 @@ label:focus,
 .form-control{
     font-size: 100%;
     line-height: 1.15;
-    padding:7%;
-    border-radius:0px;
+    padding: 4%;
+    
+    border: none;
+background-color:whitesmoke;
+height: 100%;
+border-radius:0px;
+border-style: 0px solid;
+box-shadow: none !important;
 }
 
 .form-check-label a{
@@ -160,6 +183,43 @@ label:focus,
 .forms-container #link2{
     display: none;
 }
+
+
+/*Icons*/
+
+.form-group {
+    display: -ms-flexbox;
+    display: flex;
+    width: 100%;
+    
+    
+}
+
+.form-group .options-control{
+    display: -ms-flexbox;
+    display: flex;
+    width: 100%;
+   
+}
+
+.form-group select{
+    padding: 3.7% 3% 3% 3%;
+    border: none;
+    background-color: whitesmoke;
+    box-shadow: none !important;
+    height: 100%;
+    width: 100%;
+}
+
+.icon{
+    font-size:10px;
+    padding: 3.5% 3% 3% 3%;
+    text-align: center;
+    background-color: #8c3a3a;
+    color: white;
+    
+}
+
 
 
 

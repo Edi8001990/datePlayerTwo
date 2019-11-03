@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="320"
+   height="60"
+   viewBox="0 0 84.666665 15.874999"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="datePlayByTwo-logo.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="-198.6052"
+     inkscape:cy="-308.85357"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:snap-text-baseline="false"
+     units="px"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-paths="true"
+     inkscape:bbox-nodes="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-32.514889,-51.240828)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:49.00316238px;line-height:1.25;font-family:'Eras Bold ITC';-inkscape-font-specification:'Eras Bold ITC';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.522;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;"
+       x="38.903366"
+       y="62.433868"
+       id="text817"><tspan
+         sodipodi:role="line"
+         id="tspan815"
+         x="38.903366"
+         y="62.433868"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.27106094px;line-height:140.32839966px;font-family:'Informal Roman';-inkscape-font-specification:'Informal Roman, ';letter-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.522;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;"
+         rotate="0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0">DatePlayerTwo</tspan></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot819"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Eras Bold ITC';-inkscape-font-specification:'Eras Bold ITC';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="scale(0.26458333)"><flowRegion
+         id="flowRegion821"><rect
+           id="rect823"
+           width="240"
+           height="185.71428"
+           x="180"
+           y="279.66254" /></flowRegion><flowPara
+         id="flowPara825"></flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot859"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:0.25;font-family:'Eras Bold ITC';-inkscape-font-specification:'Eras Bold ITC';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="scale(0.26458333)"><flowRegion
+         id="flowRegion861"><rect
+           id="rect863"
+           width="625.71429"
+           height="102.85714"
+           x="100"
+           y="162.51968" /></flowRegion><flowPara
+         id="flowPara865"></flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot1418"
+       style="fill:black;fill-opacity:1;stroke:none;font-family:'Eras Bold ITC';font-style:normal;font-weight:normal;font-size:40px;line-height:0.25;letter-spacing:0px;word-spacing:0px;-inkscape-font-specification:'Eras Bold ITC';font-stretch:normal;font-variant:normal"><flowRegion
+         id="flowRegion1420"><rect
+           id="rect1422"
+           width="587.14288"
+           height="167.14285"
+           x="-147.14285"
+           y="-57.142857" /></flowRegion><flowPara
+         id="flowPara1424"></flowPara></flowRoot>  </g>
+</svg>
