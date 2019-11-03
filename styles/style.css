@@ -8,6 +8,8 @@ html, body {
 }
 
 
+
+
 .first-column{
     height: 100% !important;
     background-repeat: no-repeat;
@@ -24,9 +26,7 @@ html, body {
     
 }
 
-.column-link a{
-    color:#646464;
-}
+
 
 
 
@@ -53,8 +53,6 @@ html, body {
     margin-left: auto;
     margin-right: auto;
     }
-
-    
 
 .login-registration{
     margin: 0% 25%;
@@ -95,13 +93,12 @@ label:focus,
     font-size: 100%;
     line-height: 1.15;
     padding: 4%;
-    
     border: none;
-background-color:whitesmoke;
-height: 100%;
-border-radius:0px;
-border-style: none;
-box-shadow: none !important;
+    background-color:whitesmoke;
+    height: 100%;
+    border-radius:0px;
+    border-style: none;
+    box-shadow: none !important;
 }
 
 .form-check-label a{
@@ -143,10 +140,11 @@ box-shadow: none !important;
 
 /*Swithcher*/
 .inline-block{
-   
     text-align: center;
-    
-    
+}
+
+.column-link a{
+    color:#646464;
 }
 
 
