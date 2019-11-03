@@ -35,7 +35,7 @@
 }
    
     
-@media screen  and  (min-width: 275px) and (max-width: 775px){
+@media screen  and  (min-width: 400px) and (max-width: 775px){
     .login-registration{
         margin: 0% 10%;
     }
@@ -45,14 +45,19 @@
     }
 }
 
-    @media screen and (max-width: 274px) {
+    @media screen and (min-width: 50px) and (max-width: 399px) {
         .login-registration{
-            margin: 0% 1%;
+            margin: 0% 0.5%;
         }
 
         .register-first-block, .login-first-block, .register-second-block, .login-second-block{
             margin-bottom: 0%;
             
+        }
+
+
+        .registration-form, .login-form{
+           padding: 2%;
         }
 
     }
