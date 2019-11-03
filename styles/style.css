@@ -13,7 +13,7 @@ html, body {
     background-repeat: no-repeat;
     background-image: url('../img/image-background.jpg');
     background-size: cover;
-    
+    max-width: 100%;
 }
 
 .second-column{
@@ -44,7 +44,7 @@ html, body {
 
 .logo-block{
     position: relative;
-    top:15%;
+    top:10%;
     margin-bottom: 1%;
 }
 
@@ -59,7 +59,7 @@ html, body {
 .login-registration{
     margin: 0% 25%;
     position: relative;
-    top: 50%;
+    top: 45%;
     -webkit-transform: translateY(-50%);
     -ms-transform: translateY(-50%);
     transform: translateY(-50%);
@@ -100,7 +100,7 @@ label:focus,
 background-color:whitesmoke;
 height: 100%;
 border-radius:0px;
-border-style: 0px solid;
+border-style: none;
 box-shadow: none !important;
 }
 
@@ -204,14 +204,20 @@ box-shadow: none !important;
 
 .form-group select{
     padding: 3.7% 3% 3% 3%;
-    border: none;
+    border:0px;
+   outline:0px;
     background-color: whitesmoke;
     box-shadow: none !important;
     height: 100%;
     width: 100%;
 }
+.option-choose{
+    color:black;
+}
+
 
 .icon{
+    width: 15%;
     font-size:10px;
     padding: 3.5% 3% 3% 3%;
     text-align: center;

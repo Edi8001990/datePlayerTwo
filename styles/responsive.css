@@ -1,0 +1,41 @@
+@media screen and (min-width: 1200px) and  (max-width: 1201px){
+
+    
+    .mid-screen{
+        display: none;
+    }
+    .login-registration{
+        margin: 0% 15%;
+    }
+
+}
+
+@media screen and (min-width: 1200px) {
+    .mid-screen{
+        display: none;
+    } 
+}
+
+  @media screen and (min-width: 1201px) and (max-width: 1610px) {
+
+    
+    .login-registration{
+        margin: 0% 15%;
+    }
+
+    
+
+  }
+  
+
+
+@media screen and (max-width: 1200px) {
+    .full-screen{
+      display: none;
+    }
+   
+    
+
+    
+
+  }
